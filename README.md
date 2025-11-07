@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🔥 Cyberforge
 
-<!--
-**CyberForge0/CyberForge0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> forging security in code.
 
-Here are some ideas to get you started:
+### 🧠 About
+Cyberforge is a space for crafting open-source cybersecurity tools and research.  
+We build, break, and harden — one line of code at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus Areas**
+- 🔐 Network & Application Security  
+- ⚙️ Automation & Tooling  
+- 🧩 Exploit Research  
+- 🛰️ Threat Intelligence  
+
+---
+
+### 🧰 Projects
+| Project | Description |
+|----------|--------------|
+| [forge-scan](#) | Network and web vulnerability scanner |
+| [forge-recon](#) | Reconnaissance and enumeration toolkit |
+| [forge-audit](#) | Log analysis and anomaly detection |
+| [forge-labs](#) | Experimental research playground |
+
+---
+
+### 🛠️ Tech Stack
+`Python` • `Go` • `Rust` • `Bash` • `Docker` • `Linux` • `Nmap` • `Burp Suite`
+
+---
+
+### 🧩 Motto
+> **Code. Test. Harden. Repeat.**
+
+---
+
+### 🌐 Connect
+- 🖥️ [Website](#) (coming soon)  
+- 🧰 GitHub: [github.com/Cyberforge](#)
+
+---
+
+*“Forging the future of cybersecurity, one repo at a time.”*
+
